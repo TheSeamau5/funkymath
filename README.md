@@ -61,6 +61,4 @@ Example usage:
             
 
             print(cube(2)); //8
-=======
-            print(cube(2)); //8
 
