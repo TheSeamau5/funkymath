@@ -1,0 +1,2 @@
+Funky Math library
+==================
