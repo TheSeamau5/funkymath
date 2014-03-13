@@ -59,4 +59,8 @@ Example usage:
         
             var cube = new MathFunction((num x) => x*x);
             
+<<<<<<< HEAD
             print(cube(2)); //8
+=======
+            print(cube(2)); //8
+>>>>>>> FETCH_HEAD
